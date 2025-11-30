@@ -1,0 +1,13 @@
+# Mini Tools CLI Collection
+Kumpulan script CLI sederhana untuk membantu tugas harian di komputer.
+
+## Isi Tools
+- text-cleaner: membersihkan teks dari karakter tidak perlu
+- url-shortener: mempersingkat URL menggunakan API gratis
+- hash-generator: membuat hash MD5/SHA256
+
+## Cara Menjalankan
+python toolname.py
+
+## Lisensi
+MIT
